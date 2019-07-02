@@ -1,8 +1,6 @@
-# riot4-boilerplate
+# <img src="src/assets/images/riot.svg" alt="Riot.js" width="50" height="50"> riot4-boilerplate
 
 > Riot.js 4 web app boilerplate with Webpack and Tailwind CSS.
-
-![](src/assets/images/riot.svg)
 
 ### About
 
