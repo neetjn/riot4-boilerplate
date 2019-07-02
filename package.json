@@ -1,0 +1,19 @@
+{
+  "name": "riot4-boilerplate",
+  "version": "1.0.0",
+  "description": "Riot.js 4 web app boilerplate with Webpack and Tailwind CSS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neetjn/riot4-boilerplate.git"
+  },
+  "author": "John Nolette <john@neetgroup.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/neetjn/riot4-boilerplate/issues"
+  },
+  "homepage": "https://github.com/neetjn/riot4-boilerplate#readme"
+}
