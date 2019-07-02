@@ -1,5 +1,8 @@
 # riot4-boilerplate
+
 > Riot.js 4 web app boilerplate with Webpack and Tailwind CSS.
+
+![](src/assets/images/riot.svg)
 
 ### About
 
@@ -20,7 +23,7 @@ This template utilizes eslint for linting and prettier for formatting.
 
 ### Support
 
-This project was created with the Riot.js compiler version `4.1.1`, using the webpack loader version `4.0.0` on Node version `12`.
+This project was created with the Riot.js compiler version `4.1.1`, using the webpack loader version `4.0.0` on Node version `12`. 
 
 
 ### Contributors
