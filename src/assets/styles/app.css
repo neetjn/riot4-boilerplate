@@ -1,0 +1,10 @@
+/* using resolve-url-loader with postcss source map to resolve urls (font assets) */
+@import "@icon/entypo/entypo.css";
+
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+/* for resolving additional css imports with tailwind styles,
+   postcss-import plugin must be initialized before tailwind in postcss config */
+@import "./components/_all.css";
