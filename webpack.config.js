@@ -31,7 +31,7 @@ module.exports = {
         }
       },
       {
-        test: /\.tag$/,
+        test: /\.(tag|riot)$/,
         exclude: /node_modules/,
         use: [
           {

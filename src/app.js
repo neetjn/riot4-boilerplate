@@ -1,6 +1,6 @@
 import * as riot from 'riot'
 import DatePlugin from './mixins/date'
-import Page from './containers/page.tag'
+import Page from './containers/page.riot'
 
 // loading css using postcss loader
 // tailwind plugin and config specified in postcss config
